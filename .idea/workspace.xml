@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83ad8930-b1e9-4c7a-9efd-687aaeb57536" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XTfO6lLc9vdIsyHnJGry8zOYWm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebScrape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebScrape" />
+      <module name="WebScrape" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebScrape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ad8930-b1e9-4c7a-9efd-687aaeb57536" name="Default Changelist" comment="" />
+      <created>1581074969657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581074969657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="215" width="1084" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581075120757">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="418" y="215" width="1084" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1581075120757" />
+    <state x="841" y="273" width="818" height="524" key="FileChooserDialogImpl" timestamp="1581084113858">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="841" y="273" width="818" height="524" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1581084113858" />
+    <state width="906" height="289" key="GridCell.Tab.0.bottom" timestamp="1581084068348">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="906" height="289" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1581084068348" />
+    <state width="906" height="289" key="GridCell.Tab.0.center" timestamp="1581084068347">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="906" height="289" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1581084068347" />
+    <state width="906" height="289" key="GridCell.Tab.0.left" timestamp="1581084068347">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="906" height="289" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1581084068347" />
+    <state width="906" height="289" key="GridCell.Tab.0.right" timestamp="1581084068348">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="906" height="289" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1581084068348" />
+    <state x="886" y="134" width="1024" height="851" key="SettingsEditor" timestamp="1581084190034">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="886" y="134" width="1024" height="851" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1581084190034" />
+    <state x="623" y="264" key="search.everywhere.popup" timestamp="1581081920374">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="623" y="264" key="search.everywhere.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1581081920374" />
+  </component>
+</project>
