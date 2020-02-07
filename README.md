@@ -6,3 +6,4 @@ To use:
 [low]-[high] or [highest]
 
 Compiled with JDK 13.
+Jsoup library is needed.
